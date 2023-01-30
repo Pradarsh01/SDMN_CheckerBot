@@ -51,7 +51,7 @@ $messagesec",
           ['text' => "💠 Created By 💠", 'url' => "t.me/Soonbotmaker"]
         ],
         [
-          ['text' => "💎 Source Code 💎", 'url' => "t.me/IndianBotsChat"]
+          ['text' => "💎 Source Code 💎", 'url' => "t.me/premium40011"]
         ],
       ], 'resize_keyboard' => true])
         
